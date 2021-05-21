@@ -1,0 +1,3 @@
+= Ontologia de domeniu (pentru conceptele din exercitii): Ontology (for concepts from the exercises)
+
+[In forma de graf]
